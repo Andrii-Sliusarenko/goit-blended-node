@@ -9,6 +9,7 @@
     "add-one": "node src/scripts/addOneProduct.js",
     "generate": "node src/scripts/generateProducts.js",
     "get-all": "node src/scripts/getAllProducts.js",
+    "clear": "node src/scripts/clearProducts.js",
     "count": "node src/scripts/countProducts.js"
   },
   "keywords": [],
